@@ -3,6 +3,14 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- javascript
+- html and css
+- c
+- c++
+- database learning
+- DSA learning
+- java
+- DSA with javascript
 - hobby coding 
 
 <!---
