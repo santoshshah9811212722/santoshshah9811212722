@@ -9,6 +9,8 @@
 - database learning
 - DSA learning
 - java
+- React JS
+- React Native
 - DSA with javascript
 - hobby coding 
 
